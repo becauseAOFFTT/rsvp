@@ -17,7 +17,7 @@ function figmaAssetResolver() {
 
 export default defineConfig({
   // กำหนดพาร์ทหลักให้ตรงกับชื่อ Repository บน GitHub Pages
-  base: '/wedding-card/', 
+  base: '/rsvp/', 
   
   plugins: [
     figmaAssetResolver(),
