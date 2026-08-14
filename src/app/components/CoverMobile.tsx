@@ -29,7 +29,7 @@ export default function CoverMobile({ onOpen }: Props) {
       </div>
       <AcWeddingLogo />
       <p className="[word-break:break-word] absolute font-['Cinzel:Regular',sans-serif] font-normal leading-[normal] left-[calc(50%-44px)] text-[#3e0000] text-[12px] top-[calc(50%+259px)] whitespace-nowrap">The wedding of</p>
-      <p className="[word-break:break-word] absolute font-['Halimun:Regular','Noto_Sans:Regular','Noto_Sans_Math:Regular','Noto_Sans_Symbols:Regular','Noto_Sans_Symbols2:Regular',sans-serif] leading-[normal] left-[46px] right-[47px] text-[#3e0000] text-[20px] text-center top-[725px] whitespace-nowrap" style={{ fontFamily: "'Halimun', 'Noto Sans', sans-serif", fontVariationSettings: '"CTGR" 0, "wdth" 100, "wght" 400' }}>{`Chonratid & Artitaya`}</p>
+      <p className="[word-break:break-word] absolute font-['Halimun:Regular','Noto_Sans:Regular','Noto_Sans_Math:Regular','Noto_Sans_Symbols:Regular','Noto_Sans_Symbols2:Regular',sans-serif] leading-[normal] left-[46px] right-[47px] text-[#3e0000] text-[20px] text-center top-[755px] whitespace-nowrap" style={{ fontFamily: "'Halimun', 'Noto Sans', sans-serif", fontVariationSettings: '"CTGR" 0, "wdth" 100, "wght" 400' }}>{`Chonratid & Artitaya`}</p>
       <p className="[word-break:break-word] absolute font-['Cinzel:Regular',sans-serif] font-normal leading-[normal] left-[calc(50%-44px)] text-[#3e0000] text-[14px] top-[calc(50%+331px)] whitespace-nowrap">14 . 11 . 2026</p>
       <button
         onClick={onOpen}
